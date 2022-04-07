@@ -12,6 +12,8 @@ sudo apt install python3-pip python3-gpiozero python3-serial \
 	python3-sklearn-lib libx264-dev libjpeg-dev libgstreamer1.0-dev \
 	libgstreamer-plugins-base1.0-dev libgstreamer-plugins-bad1.0-dev \
 	gstreamer1.0-plugins-ugly gstreamer1.0-tools gstreamer1.0-gl gstreamer1.0-gtk3
+sudo curl -sL https://install.raspap.com | bash
+sudo reboot
 ```
 ## Compatibility
 ### Hardware :
